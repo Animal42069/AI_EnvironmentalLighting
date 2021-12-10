@@ -64,3 +64,5 @@ crashlytics-build.properties
 /AI_EnvironmentalLighting/packages.config
 /packages
 /AI_EnvironmentalLighting/bin/Release/AIEnvironmentalLighting.dll
+/AI_EnvironmentalLighting/bin/Release/BepinEx/Plugins
+/AI_EnvironmentalLighting/bin/Release
