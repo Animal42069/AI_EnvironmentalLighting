@@ -16,6 +16,6 @@ Option to override DHH lighting, since DHH lighting overrides the normal game li
 
 Allows modification to sunlight/moonlight intensity and shadow strength depending on the current weather.  The game only factors in ambient light for weather effects.  This allows you to reduct the light and shadows when it is storming out for a more realistic effect.
 
-Allows a global modification to the light color of all natural fire light on the map.  In my opinion, all of the fires have too much of a red component to them.  This allows you to adjust the color components to achieve a more natural looking light.
+Allows a global modification to the light color of all natural fire light on the map.  In my opinion, all of the fires have too much of a red component to them.  This allows you to adjust the color components to achieve a more natural looking light.  Additionally, you can turn on shadows for these personal lights.
 
 Allows modification to the light color of handheld and waist natural fire lights.  Same as above, in my opinion they are normally too red.
